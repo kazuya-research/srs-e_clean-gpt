@@ -2,8 +2,6 @@ import streamlit as st
 
 st.write("🔍 secrets dict:", st.secrets)
 
-import streamlit as st
-st.write("✅ アプリが読み込まれました（UI検査用）")
 
 from datetime import datetime
 import numpy as np
